@@ -1,10 +1,10 @@
-.caja{
-	height: 500px;
+.caja1{
+	height: 200px;
 	width: 200px;
-	padding: 20px
+	padding: 20px;
 	background-color: #ff0000;
 }
 
 .body1{
-	backgound-color: #00ff00;
+	background-color: #00ff00;
 }
